@@ -1,5 +1,5 @@
 #Day 15 of 100 days coding challenge
-#Program to print the numbers in given range
+#Program to print the prime numbers in given range
 start = int(input("Enter starting range : "))
 end = int(input("Enter ending range : "))
 print("Prime numbers in the range are:")
