@@ -9,5 +9,4 @@ for i in range(1,n+1):
     s += x ** i / p
 print("The sum of series is",round(s,3))
 
-
-
+# Day 24 has the same code as of Day 15(1)
